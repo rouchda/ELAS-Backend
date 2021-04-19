@@ -45,7 +45,7 @@ branch and should only work on project inside ```resources``` folder they are as
 │       │       __init__.py
 │       │
 │       └───spoa
-│               study_soon.py           # SPOA project REST APIs
+│               spoa.py           # SPOA project REST APIs
 │               __init__.py
 │
 ├───static
